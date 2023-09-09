@@ -1,0 +1,42 @@
+note: bài có 2 yêu cầu nên để 2 dashboard, mỗi dashboard cho 1 yêu cầu
+
+note cho yêu cầu 1: 
+Đồ thị booking conversion -> tạo cột booking conversion, tạo line chart x-axis = tháng, y-axis = avg booking conversion theo tháng.
+
+
+
+Xu hướng: đặt để đi vào tháng 6 -> 9 (mùa hè). Yếu tố thúc đẩy xu hướng: thời tiết, thời gian rảnh rỗi của học sinh, sinh viên.
+
+
+
+Đặt trong ngắn hạn có xu hướng nhiều hơn so với đặt dài và trung hạn. -> đặt để đi du lịch thì sẽ đặt gần để chắc chắn về các yếu tố thời gian (lịch trình), thời tiết, sức khỏe.
+
+
+
+Dữ liệu này của một nước không tổ chức Giáng sinh và Tết Dương lịch lớn (số lượng bookings vào cuối năm không lớn),nghỉ hè ở giữa năm, số bookings tăng vào tháng 4, tháng 5) -> Việt Nam
+
+
+note cho yêu cầu 2:
+
+Tỷ lệ cost/revenue giảm dần khi tỷ lệ booking short tăng dần
+
+
+
+Tháng 8 -> phần lớn bookings của C == short + tỷ lệ cost/revenue thấp nhất trong cả năm -> hiệu quả nhất
+
+
+
+Tỷ lệ short của A và B lớn hơn 80% có tỷ lệ cost/revenue thấp hơn C
+
+
+
+Trong khi đó C cả năm không thiên về long, medium hay short nên có tỷ lệ cost/revenue cao hơn.
+
+
+
+-> đưa ra nhiều flash sale để tăng số lượng khách book short
+
+-> thống kê số lượng khách đặt short nhiều thì sẽ cho họ hưởng nhiều ưu đãi hơn
+
+
+

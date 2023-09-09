@@ -1,0 +1,29 @@
+- Slide báo cáo hiệu quả hoạt động của Website:
+Giới thiệu chỉ số booking conversion: là tỷ lệ chuyển đổi booking, tức là trong 100 lượt clicks thì có bao nhiêu lượt booking
+ (càng cao càng tốt)
+Giá trị chuyển đổi booking trung bình năm là 0.04
+Trong đó các tháng 6, 7, 8,9,10 là cao hơn trung bình (tháng 9 cao nhất 0.043)
+Tháng 1 là thấp nhất với 0.0341
+Qua tìm hiểu thì tỉ lệ này cho các website là 0.02-0.04 nên website này hoạt động hiệu quả
+What is a good conversion rate for a hotel website? | Hotel Benchmark (hotelbenchmarking.com)
+
+- Slide dự đoán khu vực hoạt động của các nhà quảng cáo:
+
+- Xu hướng: đặt để đi vào tháng 6 -> 9 (mùa hè).
+Yếu tố thúc đẩy xu hướng: thời tiết, thời gian rảnh rỗi của học sinh, sinh viên.
+- Đặt trong ngắn hạn có xu hướng nhiều hơn so với đặt dài và trung hạn. -> đặt để đi du lịch thì sẽ đặt gần để chắc chắn về các yếu tố thời gian (lịch trình), thời tiết, sức khỏe.
+Dữ liệu này của một nước không tổ chức Giáng sinh và Tết Dương lịch lớn (số lượng bookings vào cuối năm không lớn),nghỉ hè ở giữa năm, số bookings tăng vào tháng 4, tháng 5) -> Việt Nam
+
+- Slide đánh giá kết quả hoạt động của các nhà quảng cáo:
+Giới thiệu chỉ số cost/revenue: tỷ lệ chi phí trên doanh thu, cho ta biết 1 đồng doanh thu cần bao nhiêu đồng chi phí 
+(càng thấp càng tốt)
+- Nhà quảng cáo A,B có hiệu quả hoạt động quảng cáo ổn định trong cả năm.
+- Nhà quảng cáo A là nhà quảng cáo có hiệu quả cao nhất.
+- Nhà quảng cáo C có hiệu quả quảng cáo thấp nhất và biến động lớn. Hiệu quả quảng cáo nhất là vào các tháng 7,8,9.
+
+
+- Slide insight:
+Tỷ lệ cost/revenue giảm dần khi tỷ lệ booking short tăng dần
+Tháng 7,8,9 -> phần lớn bookings của C == short + tỷ lệ cost/revenue thấp nhất trong cả năm -> hiệu quả nhất
+Tỷ lệ short của A và B lớn hơn 80% có tỷ lệ cost/revenue thấp hơn C
+Trong khi đó C cả năm không thiên về long, medium hay short nên có tỷ lệ cost/revenue cao hơn.
